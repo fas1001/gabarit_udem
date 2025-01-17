@@ -65,10 +65,10 @@ editor:
     Présenté à:\\
     \textbf{Professeur} \\
     \vfil{}
-    Département de votre département \\Faculté de votre faculté \\Université Laval
+    Département de votre département \\Faculté de votre faculté \\Université de Montréal
     \vfil{}
     \vfil{}
-    Québec, Canada \\
+    Montréal, Canada \\
     \vfil{}
     \copyright{} Nom de l'auteur, \today{}
   \end{center}
