@@ -10,6 +10,7 @@ format:
       \usepackage[french]{babel}
       \usepackage{fancyhdr}
       \usepackage{lipsum}  
+      \linespread{2}
       \pagestyle{fancy}
       \fancyhf{}
       \fancyhead[R]{\thepage}
